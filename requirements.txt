@@ -1,0 +1,8 @@
+Django==4.2.5
+djangorestframework==3.14.0
+opencv_python==4.8.0.76
+Requests==2.31.0
+ultralytics==8.0.210
+
+# 我换了torch和torchvision
+# conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.6 -c pytorch -c nvidia
