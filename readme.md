@@ -30,7 +30,7 @@ python manage.py runserver
 ```
 
 ## API说明
-详见Api.pdf
+详见 [Api.pdf](./Api.pdf)
 
 ## 模型权重
 
@@ -46,7 +46,6 @@ SynthText 源代码链接：[`ankush-me/SynthText`](https://github.com/ankush-me
 
 源代码链接：[`sezer-muhammed/Django-Yolov8-API-App`](https://github.com/sezer-muhammed/Django-Yolov8-API-App)
 
-详见 [Api.pdf](path/to/Api.pdf)
 
 ## 模型权重
 
