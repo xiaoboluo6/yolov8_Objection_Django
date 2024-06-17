@@ -1,6 +1,6 @@
 ## Introduction 
 
-利用 Django 框架部署检测模型，编写 API 文档提供服务调用 （自定义数据集生成详见我的上一个仓库 [`LED_digital_display_dataset`](https://github.com/xiaoboluo6/LED_digital_display_dataset)）
+利用 Django 框架部署检测模型，编写 API 文档提供服务调用 （自定义数据集生成详见我的上一个仓库 [LED_digital_display_dataset](https://github.com/xiaoboluo6/LED_digital_display_dataset)）
 
 <img src="https://github.com/xiaoboluo6/yolov8_Objection_Django/raw/master/examples/Renderings/rendering_admin.png" width="800">
 
