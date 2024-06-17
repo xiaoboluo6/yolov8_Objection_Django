@@ -38,7 +38,7 @@ python manage.py runserver
 请将下载的权重文件直接放置到当前目录下。
 
 ## API说明
-详见 [Api.pdf](./Api.pdf)
+详见 [Api.pdf](./Api.pdf)或[Api.md](./Api.md)
 
 
 
