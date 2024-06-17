@@ -1,14 +1,3 @@
-# 代码说明
-
-## 数据集
-
-数据集生成改于 OCR 文字数据集生成模型 SynthText  
-SynthText 源代码链接：[ankush-me/SynthText](https://github.com/ankush-me/SynthText)  
-电子秤数据集生成链接：**后续补充 TODO**
-
-## 部署
-
-源代码链接：[sezer-muhammed/Django-Yolov8-API-App](https://github.com/sezer-muhammed/Django-Yolov8-API-App)
 
 ## 使用方法
 
@@ -44,5 +33,23 @@ python manage.py runserver
 详见Api.pdf
 
 ## 模型权重
+
+# Other Links
+
+## 数据集
+
+数据集生成改于 OCR 文字数据集生成模型 SynthText  
+SynthText 源代码链接：[`ankush-me/SynthText`](https://github.com/ankush-me/SynthText)  
+电子秤数据集生成链接：**后续补充 TODO**
+
+## 部署
+
+源代码链接：[`sezer-muhammed/Django-Yolov8-API-App`](https://github.com/sezer-muhammed/Django-Yolov8-API-App)
+
+详见 [Api.pdf](path/to/Api.pdf)
+
+## 模型权重
+
+
 
 
