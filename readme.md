@@ -29,25 +29,28 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
+## 模型权重
+
+模型权重文件已上传至百度网盘，可以通过以下链接下载：
+
+**下载链接**:[百度网盘](https://pan.baidu.com/s/1aKUqTtYL5_u6JppCR6mrtQ)  |  **提取码**:`xbl6`
+
+请将下载的权重文件直接放置到当前目录下。
+
 ## API说明
 详见 [Api.pdf](./Api.pdf)
 
-## 模型权重
+
+
 
 # Other Links
 
-## 数据集
+## 数据集与部署
 
-数据集生成改于 OCR 文字数据集生成模型 SynthText  
-SynthText 源代码链接：[`ankush-me/SynthText`](https://github.com/ankush-me/SynthText)  
-电子秤数据集生成链接：**后续补充 TODO**
+- SynthText 源代码链接：[`ankush-me/SynthText`](https://github.com/ankush-me/SynthText)  
+- 电子秤数据集生成链接：**后续补充 TODO**
+- 部署源代码链接：[`sezer-muhammed/Django-Yolov8-API-App`](https://github.com/sezer-muhammed/Django-Yolov8-API-App)
 
-## 部署
-
-源代码链接：[`sezer-muhammed/Django-Yolov8-API-App`](https://github.com/sezer-muhammed/Django-Yolov8-API-App)
-
-
-## 模型权重
 
 
 
