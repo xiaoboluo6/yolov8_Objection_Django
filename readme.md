@@ -1,7 +1,7 @@
 ## Introduction 
-```sh
-利用 Django 框架部署检测模型，编写 API 文档提供服务调用 （自定义数据集生成详见 [LED_digital_display_dataset](https://github.com/xiaoboluo6/LED_digital_display_dataset)）
-```
+
+利用 Django 框架部署检测模型，编写 API 文档提供服务调用 （自定义数据集生成详见我的上一个仓库 [`LED_digital_display_dataset`](https://github.com/xiaoboluo6/LED_digital_display_dataset)）
+
 <img src="https://github.com/xiaoboluo6/yolov8_Objection_Django/raw/master/examples/Renderings/rendering_admin.png" width="800">
 
 
@@ -55,7 +55,7 @@ python manage.py runserver
 ## 数据集与部署
 
 - SynthText 源代码链接：[`ankush-me/SynthText`](https://github.com/ankush-me/SynthText)  
-- 电子秤数据集生成链接：[LED_digital_display_dataset](https://github.com/xiaoboluo6/LED_digital_display_dataset)
+- 电子秤数据集生成链接：[`LED_digital_display_dataset`](https://github.com/xiaoboluo6/LED_digital_display_dataset)
 - 部署源代码链接：[`sezer-muhammed/Django-Yolov8-API-App`](https://github.com/sezer-muhammed/Django-Yolov8-API-App)
 
 
